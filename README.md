@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahillrathore&show_icons=true&locale=en" alt="sahillrathore" /></p>
 
-<p style="background-color: white"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahillrathore&" alt="sahillrathore" /></p>
+<p style="background-color: black"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahillrathore&" alt="sahillrathore" /></p>

@@ -17,7 +17,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sahillrathore&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahillrathore&theme=black-ice&hide_border=true" alt="sahill" /></div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>

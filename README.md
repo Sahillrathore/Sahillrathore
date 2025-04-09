@@ -1,7 +1,8 @@
-# Hi I am Sahil 💫
-🔭 **I’m currently working in:👯**  <br>Storeshoppy<br><br>🌱 **I’m currently learning:**  <br>Mern Stack.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Redux, Firebase, and any general software development questions⚡.
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahillrathore&theme=dark)](https://git.io/streak-stats)
+# Hi I am Sahil 💫
+🔭 **I’m currently working in:👯**  <br>Storeshoppy<br><br>
+<!--🌱**I’m currently learning:**  <br>Mern Stack.<br> -->
+💬 **Ask me about:**  <br>JavaScript, React, Redux, Firebase, and any general software development questions⚡.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-rathore123/) 

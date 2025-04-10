@@ -1,4 +1,9 @@
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahillrathore&theme=dark)](https://git.io/streak-stats)
+
+</div>
+
 # Hi I am Sahil 💫
 🔭 **I’m currently working in:👯**  <br>Storeshoppy<br><br>
 <!--🌱**I’m currently learning:**  <br>Mern Stack.<br> -->

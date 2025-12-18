@@ -16,7 +16,7 @@
   
 # 💻 Technologies and Tools:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,nodejs,express,mongodb,postgres,html,css,tailwind,github" />
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,express,mongodb,postgres,prisma,html,css,tailwind,github" />
   <img src="https://skillicons.dev/icons?i=nextjs,vscode,firebase,bootstrap,postman,git,aws,gcp,npm" />
 </div>
 </div>
